@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Heart Shaker",
+  "base_artist": "TWICE",
+  "createdAt": "2026-02-24T04:07:02.600134Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Heart Shaker",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/01_Heart_Shaker_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Heart Shaker - Japanese ver.",
+      "artist": "Twice",
+      "has_synced": true,
+      "path": "select/02_Heart_Shaker_-_Japanese_ver._Twice.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Heart Shaker -Japanese ver.-",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/03_Heart_Shaker_-Japanese_ver.-_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Heart Shaker",
+      "artist": "TWICE (트와이스)",
+      "has_synced": true,
+      "path": "select/04_Heart_Shaker_TWICE_(트와이스).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Heart Shaker",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/05_Heart_Shaker_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Heart Shaker",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/06_Heart_Shaker_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Heart Shaker (Japanese Version)",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/07_Heart_Shaker_(Japanese_Version)_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Heart Shaker",
+      "artist": "TWICE (트와이스)",
+      "has_synced": true,
+      "path": "select/08_Heart_Shaker_TWICE_(트와이스).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Heart Shaker",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/09_Heart_Shaker_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Heart Shaker",
+      "artist": "TWICE(트와이스)",
+      "has_synced": true,
+      "path": "select/10_Heart_Shaker_TWICE(트와이스).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Heart Shaker",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/11_Heart_Shaker_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Heart Shaker",
+      "artist": "TWICE - ilKPOP.com",
+      "has_synced": true,
+      "path": "select/12_Heart_Shaker_TWICE_-_ilKPOP.com.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Heart Shaker",
+      "artist": "TWICE",
+      "has_synced": false,
+      "path": "select/pl_01_Heart_Shaker_TWICE.txt"
+    }
+  ]
+}
